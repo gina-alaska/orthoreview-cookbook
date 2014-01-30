@@ -13,7 +13,7 @@ default['ortho_review']['deploy_path'] = "#{default['ortho_review']['application
 # default['ortho_review']['database']['adapter']  = "postgresql"
 # default['ortho_review']['database']['hostname'] = ""
 # default['ortho_review']['database']['database'] = "browse_prod"
-# default['ortho_review']['database']['username'] = "browse_web"
+# default['ortho_review']['database']['username'] = ""
 # default['ortho_review']['database']['password'] = ""
 # default['ortho_review']['database']['search_path'] = "public"
 
